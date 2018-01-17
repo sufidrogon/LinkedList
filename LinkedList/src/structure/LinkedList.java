@@ -1,9 +1,9 @@
 package structure;
 
 import data.ListNode;
-import type.AdvancedList;
+import type.AdvancedFeatures;
 
-public class LinkedList extends BaseLinkedList implements AdvancedList {
+public class LinkedList extends BaseLinkedList implements AdvancedFeatures {
 
 	public LinkedList() {
 	}

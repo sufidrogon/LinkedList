@@ -1,6 +1,6 @@
 package type;
 
-public interface AdvancedList {
+public interface AdvancedFeatures {
 
 	void insertAtBeginning(int value);
 
